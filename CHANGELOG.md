@@ -47,3 +47,6 @@
 
 ## v2.4 (2026-10-28)
 - 네이버 추가제목 15자 제한(API 확인) 반영: 회사, Syntitan은 AI-Ready Data, LLM Capsule은 맥락 보존형 데이터 레이어
+
+## v2.5 (2026-10-28)
+- 유이사님 슬랙 확정 문구로 Syntitan, LLM Capsule 설명 교체
